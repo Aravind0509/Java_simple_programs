@@ -1,0 +1,25 @@
+PROBLEM TAKEN:
+      SIMPLE BANK APPLICATION FOR CASH DEPOSIT AND WITHDRAWAL
+
+CONCEPTS COVERED:
+   *Inheritance
+   *Interface
+   *Constructor
+   *Package
+   *User defined exception
+
+DESCRIPTION:
+ This application consists of four modules:
+          1)Balance
+          2)Deposit
+          3)Withdraw
+          4)Previous Transaction
+WORKING:
+      First, we have to enter the name of the bank.Then displays the name and id.Then it displays five options. They are balance,deposit,withdrawal,previous transaction and to exit the system
+    If the balance is less than 1000,then we cannot withdraw the amount.It leads to exception
+    Press the key “A” for checking the balance
+    Press the key “B” for  depositing the amount
+    Press the key “C” for  withdrawing the amount
+    Press the key “D” for  seeing the previous transaction
+    Press the key “E” for  exit from the system
+ After performing all the operation ,we can exit the system.
